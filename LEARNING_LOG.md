@@ -1,38 +1,21 @@
-# Weekly Learning Log
+# 주간 학습 기록 (Learning Log)
 
-## Learning Records and Goals
+## 1주차 (2026-05-01 ~ 2026-05-07) ✅
+- 학습 목표: 파이썬 기초 이해 & 개발 환경 구성
+- 성과: Python 설치 완료, 첫 코드 실행 성공
+- 배운 내용: 변수, 자료형, 연산, print() 함수
 
-### Week 1 (2026-05-01)
-- **Learning Goals:**
-  - Understand the basics of Python programming.
-  - Set up the development environment.
-- **Achievements:**
-  - Completed introductory Python tutorials.
-  - Installed Python and necessary packages.
+## 2주차 (2026-05-08 ~ 2026-05-14)
+- 예정: 문자열 메서드, input() 함수, 간단한 프로그램
 
-### Week 2 (2026-05-08)
-- **Learning Goals:**
-  - Dive into data types and variables.
-- **Achievements:**
-  - Experimented with strings, integers, and lists.
+## 3주차 (2026-05-15 ~ 2026-05-21)
+- 예정: if/else 조건문, 비교/논리 연산자
 
-### Week 3 (2026-05-15)
-- **Learning Goals:**
-  - Learn about control flow and loops.
-- **Achievements:**
-  - Created conditional statements and loops in practice projects.
+## 4주차 (2026-05-22 ~ 2026-05-31)
+- 예정: for/while 반복문, range() 함수
 
-### Week 4 (2026-05-22)
-- **Learning Goals:**
-  - Understand functions and modules.
-- **Achievements:**
-  - Built several reusable functions and modules.
-
-### Week 5 (2026-05-29)
-- **Learning Goals:**
-  - Explore data structures (lists, sets, dictionaries).
-- **Achievements:**
-  - Implemented projects using various data structures.
-
-### Future Weeks
-- Continue exploring Python’s advanced concepts.
+## 6월: 함수 & 자료구조 (리스트, 딕셔너리)
+## 7월: 객체지향 프로그래밍 (클래스, 상속)
+## 8-9월: 알고리즘 & 문제 해결
+## 10월: 라이브러리 활용
+## 11-12월: 최종 프로젝트 - 자동화 스크립트 ⭐
